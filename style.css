@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(131, 34, 34);
+    background-image: url("https://wallpaperaccess.com/full/2862101.jpg");
+    
+}
+
+h1 {
+    text-align: center;
+    color: rgb(250, 242, 242);
+    background-color: rgb(255, 0, 0);
+}
+
+.child {
+    width: 20%;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+form {
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+}
+
+button {
+    background-color: #b81c1c;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.readBtn {
+    background-color: transparent;
+}
+
+.wrapper {
+    text-align: center;
+    position: center;
+}
+
+.add {
+    position: center;
+    margin: 10px 0px 20px;
+}
+
+.hide{
+    display: none;
+    padding: 20px;
+}
